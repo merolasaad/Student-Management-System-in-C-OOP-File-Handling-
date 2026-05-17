@@ -26,6 +26,6 @@ A simple console-based application to manage student records using C++.
 ---
 
 ## 💡 How to Run
-Compile and run:
+```bash
 g++ main.cpp -o app
 ./app
